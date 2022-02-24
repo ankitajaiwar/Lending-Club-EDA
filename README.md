@@ -1,4 +1,4 @@
-# Lending-Club-EDA
+# Lending Club Analysis
 Exploratory data analysis of the famous Lending Club Dataset
 
 Key Insights as observed by doing Exploratory Data Analysis(lca.ipynb) of the Lending Club Dataset:
